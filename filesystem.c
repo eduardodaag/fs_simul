@@ -81,7 +81,6 @@ int fs_read(char* output_file, char* simul_file){
 		return ret;
 	}
 	
-	/* Write the code to read a file from the simulated filesystem. */
 	
 	ds_stop();
 	
